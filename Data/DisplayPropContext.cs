@@ -14,5 +14,6 @@ namespace DisplayProp.Data
         public DbSet<Meal> Meals { get; set; }
         public DbSet<Enrollment> Enrollments { get; set; }
         public DbSet<Camper> Campers { get; set; }
+        public DbSet<Game> Games { get; set; }
     }
 }

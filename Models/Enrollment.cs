@@ -2,19 +2,17 @@ using System;
 
 namespace DisplayProp.Models
 {
-    public enum Grade
-    {
-        A, B, C, D, F
-    }
-
     public class Enrollment
     {
         public Guid ID { get; set; }
-        public Guid CourseID { get; set; }
-        public Guid MealID { get; set; }
-        public Grade? Grade { get; set; }
+        public Guid GameID { get; set; }
+        public Guid CamperID { get; set; }
 
-        public Meal Meal { get; set; }
+        public Guid MealID { get; set; }
+        
+
+        public Game Game { get; set; }
         public Camper Camper { get; set; }
+        public Meal Meal { get; set; }
     }
 }

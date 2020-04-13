@@ -20521,8 +20521,43 @@
   "RootNamespace": "DisplayProp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Camper\\Edit.cshtml",
+      "TargetPath": "Views\\Camper\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Game\\Index.cshtml",
+      "TargetPath": "Views\\Game\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Meal\\Details.cshtml",
+      "TargetPath": "Views\\Meal\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Camper\\Details.cshtml",
+      "TargetPath": "Views\\Camper\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Camper\\Delete.cshtml",
+      "TargetPath": "Views\\Camper\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Camper\\Index.cshtml",
+      "TargetPath": "Views\\Camper\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Meal\\Index.cshtml",
+      "TargetPath": "Views\\Meal\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20536,13 +20571,53 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Camper\\Create.cshtml",
+      "TargetPath": "Views\\Camper\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Game\\Edit.cshtml",
+      "TargetPath": "Views\\Game\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Game\\Details.cshtml",
+      "TargetPath": "Views\\Game\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Meal\\Create.cshtml",
+      "TargetPath": "Views\\Meal\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Game\\Delete.cshtml",
+      "TargetPath": "Views\\Game\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Meal\\Edit.cshtml",
+      "TargetPath": "Views\\Meal\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Game\\Create.cshtml",
+      "TargetPath": "Views\\Game\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\DisplayProp\\Views\\Meal\\Delete.cshtml",
+      "TargetPath": "Views\\Meal\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
